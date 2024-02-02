@@ -71,6 +71,10 @@ body {
   width: 34px;
 }
 
+.board-row {
+  border: 0.5px solid red;
+}
+
 .board-row:after {
   clear: both;
   content: '';
